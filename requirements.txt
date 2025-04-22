@@ -1,0 +1,8 @@
+bitsandbytes 
+transformers 
+accelerate 
+peft 
+datasets 
+fsspec==2025.3.2 
+pandas
+torch

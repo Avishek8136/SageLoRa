@@ -21,11 +21,13 @@
 ```
 SageLoRA/
 │
-├── train_sagelora.ipynb       # LoRA fine-tuning notebook
-├── chatbot_interface.ipynb    # Gradio chatbot with document+web support
-├── squad_chatbot_adapter/     # Saved model and tokenizer
-├── squad_v1.1.csv             # Training dataset (converted from SQuAD JSON)
+├── SageloRA.ipynb       # LoRA fine-tuning notebook
+├── Adapter files/       # Saved model and tokenizer
+├── SageLoRA.pptx        # Presentation file
+├── README.md  
 └── requirements.txt           # Python dependencies
+
+https://www.kaggle.com/datasets/akashdesarda/squad-v11 Dataset Link
 ```
 
 ---
